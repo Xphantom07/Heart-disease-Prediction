@@ -17,7 +17,7 @@ st.set_page_config(
 # ======================
 
 model = joblib.load("Heart_Model.pkl")
-scaler = joblib.load("Scaler.pkl")
+scaler = joblib.load("scaler.pkl")
 
 # ======================
 # Header
