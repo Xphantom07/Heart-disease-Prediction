@@ -2,6 +2,8 @@
 
 A simple Machine Learning project that predicts the likelihood of heart disease based on patient health metrics.
 
+https://heart-disease-prediction-123456.streamlit.app/
+
 ## Project Goal
 
 The primary goal of this project was to learn and practice the complete Machine Learning workflow:
